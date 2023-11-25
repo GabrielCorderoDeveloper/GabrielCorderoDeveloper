@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love art and I used to be a digital artist.**
 
-<h3 align="left">Connect with me: gabriel.cordero.developer@gmail.com</h3>
+<h3 align="left">Connect with me: [Email me](mailto:gabriel.cordero.developer@gmail.com)</h3>
 <p align="left">
 </p>
 
