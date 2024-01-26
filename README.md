@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate Full stack developer living in New York</h3>
 
-- 🔭 I’m currently working on [The web page of Hijos de Dios](https://www.figma.com/file/tRS00kCqh5nfgz47kcQux5/Sons-of-God?type=design&mode=design&t=qjWqhVwlRcVa62Rj-1)
+- 🔭 I’m currently working on [The web page of Hijos de Dios](https://somoshijosdedios.com/)
 
 - 🌱 I’m currently **Pushing my abilities to their absolute limits.**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **gabriel.cordero.developer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XIpJK9-TzIN-AT1_caRworLaWcGCrKCE/view?usp=sharing](https://drive.google.com/file/d/1XIpJK9-TzIN-AT1_caRworLaWcGCrKCE/view?usp=sharing)
+- 📄 Know about my experience [My resume](https://drive.google.com/file/d/18hnc70iAA6Qxrp955--pNWUBJrDW3UgC/view?usp=sharing)
 
-- ⚡ Fun fact **I love art and I used to be a digital artist.**
+- ⚡ Fun fact **I love art and I used to be a digital artist. In fact, I'm the author of a graphic novel called Endless Yume.**
 
 Connect with me: [Email me](mailto:gabriel.cordero.developer@gmail.com) [Linkedin](https://www.linkedin.com/in/gabriel-cordero-0960b9244/)
 <p align="left">
