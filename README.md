@@ -7,8 +7,6 @@
 
 - 👨‍💻 My best projects are available at [https://gabriel-cordero.com/](https://gabriel-cordero.com/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/gabriel-cordero-0960b9244/](https://www.linkedin.com/in/gabriel-cordero-0960b9244/)
-
 - 💬 Ask me about **React, Sass and Javascript**
 
 - 📫 How to reach me **gabriel.cordero.developer@gmail.com**
